@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ohvelynuna)](https://github.com/ohvelynuna/github-profile-trophy)
-
+![Ohvelynuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohvelynuna&show_icons=true&theme=tokyonight)
 <!--
 **ohvelynuna/ohvelynuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
