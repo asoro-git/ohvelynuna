@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ohvelynuna)](https://github.com/ohvelynuna/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ohvelynuna)](https://github.com/ohvelynuna/github-profile-trophy&theme=tokyonight)
 ![Ohvelynuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohvelynuna&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohvelynuna)](https://github.com/ohvelynuna/github-readme-stats)
 
