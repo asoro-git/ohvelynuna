@@ -1,5 +1,7 @@
 ![Ohvelynuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohvelynuna&show_icons=true&theme=tokyonight)
 
+## I use Arch, btw
+![image](https://github.com/ohvelynuna/ohvelynuna/assets/132867898/98f931bf-e3eb-4d4b-8d51-506043acb893)
 
 <!--
 **ohvelynuna/ohvelynuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
