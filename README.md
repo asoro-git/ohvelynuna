@@ -3,6 +3,10 @@
 ## I use Arch, btw
 ![image](https://github.com/ohvelynuna/ohvelynuna/assets/132867898/98f931bf-e3eb-4d4b-8d51-506043acb893)
 
+### Theme from Hyprdot
+![image](https://github.com/ohvelynuna/ohvelynuna/assets/132867898/96cc73df-6ad2-457d-8ca7-b0f98c693a70)
+
+
 <!--
 **ohvelynuna/ohvelynuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
